@@ -1,0 +1,22 @@
+ 
+
+
+
+ 
+
+A. Java Virtual Machine (JVM):
+The Java Virtual Machine (JVM) is a virtual machine that provides a runtime environment to execute java bytecode.
+
+The java program is converted into java bytecode which is then translated by the JVM into machine code which can be then understood by the CPU to get the output.
+
+ 
+
+B. Java Runtime Environment (JRE):
+The Java Runtime Environment (JRE) provides java libraries, the JVM and other files and documents that are needed to run java applications.
+
+ 
+
+C. Java Development Kit (JDK):
+The Java Development Kit (JDK) is a superset of JRE and is used to create java applications. There are three JDK provided by Oracle; Java Enterprise Edition (Java EE), Java Standard Edition (Java SE), and Java Mobile Edition (Java ME).
+
+ 
